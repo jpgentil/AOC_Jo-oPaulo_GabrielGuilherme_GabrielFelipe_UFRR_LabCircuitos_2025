@@ -20,6 +20,8 @@ O objetivo do flip-flop D é capturar o valor lógico da entrada D e mantê-lo e
 <p align="center">
   <img src="./Imagens/1_FlipFlop-D.png" alt="FlipFlop D"><br>
 </p>
+
+[Link do circuito Flip-Flop D](.)
 **Componentes principais:** um latch D controlado diretamente pelo clock.
 
 ---
