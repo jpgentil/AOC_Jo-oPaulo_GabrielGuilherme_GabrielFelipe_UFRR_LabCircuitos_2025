@@ -93,11 +93,3 @@ Essas condições são detectadas pelas **portas AND em cascata**, que geram os 
 | 14    | 1110        | Q1 alterna (Q0=1)                                       |
 | 15    | 1111        | Q0 alterna                                               |
 | 16    | 0000        | Volta para o início                                    |
-
-
-
-
-
-
-  
-
