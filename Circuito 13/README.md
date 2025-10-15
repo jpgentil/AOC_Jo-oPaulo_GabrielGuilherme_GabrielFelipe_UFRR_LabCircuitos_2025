@@ -4,9 +4,11 @@ Este circuito implementa um contador binário síncrono de 4 bits: a cada pulso 
 
 <p align="center">
   <img src="./Imagens/ContadorSincrono.png" alt="Contador Síncrono">
+  <a href="./13-ContadorSicrono.circ">Link do Contador</a>
 </p>
 
 **Aplicações comuns:** CPUs (temporização, divisores de frequência, geração de endereços), sistemas de controle, interfaces digitais para contagem de eventos e registros de tempo.
+
 ---
 
 ## 1. Objetivo do Circuito
