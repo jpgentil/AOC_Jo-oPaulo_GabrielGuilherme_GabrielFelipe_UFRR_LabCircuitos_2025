@@ -74,7 +74,7 @@ Essas condições são detectadas pelas **portas AND em cascata**, que geram os 
 
 ### Fluxo das Operações:
 
-| Pulso | Q3 Q2 Q1 Q0 | Comentário                                               |
+| Pulso | Q3 Q2 Q1 Q0 | Mudanças nos Flip-Flops T                                |
 |-------|-------------|----------------------------------------------------------|
 | 0     | 0000        | Estado inicial                                           |
 | 1     | 0001        | Q0 alterna                                               |
