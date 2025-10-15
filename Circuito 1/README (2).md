@@ -17,7 +17,10 @@ O objetivo do flip-flop D é capturar o valor lógico da entrada D e mantê-lo e
 ### 1.2 Estrutura do Circuito
 - **Entradas:** D (dado) e Clock.  
 - **Saídas:** Q (saída principal) e ¬Q (saída complementar).
-
+<p align="center">
+  <img src=".Circuito1/Imagens/1_FlipFlop-D.png" alt="FlipFlop D"><br>
+  <a href="./1_Flip-Flop-D(Data).circ">Link do Flip Flop D</a>
+</p>
 **Componentes principais:** um latch D controlado diretamente pelo clock.
 
 ---
