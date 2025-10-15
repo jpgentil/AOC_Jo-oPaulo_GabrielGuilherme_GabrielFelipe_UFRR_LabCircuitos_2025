@@ -21,7 +21,8 @@ O objetivo do flip-flop D é capturar o valor lógico da entrada D e mantê-lo e
   <img src="./Imagens/1_FlipFlop-D.png" alt="FlipFlop D"><br>
 </p>
 
-[Link do circuito Flip-Flop D](.Circuito 1/Circuitos Logisim/1_Flip-Flop-D(Data).circ)
+[Link do circuito Flip-Flop D] (./Circuitos Logisim/1_Flip-Flop-D(Data).circ)
+
 **Componentes principais:** um latch D controlado diretamente pelo clock.
 
 ---
