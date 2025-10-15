@@ -5,3 +5,10 @@ Este circuito implementa um contador binário síncrono de 4 bits: a cada pulso 
 <p align="center">
   <img src="./Imagens/ContadorSincrono.png" alt="Contador Síncrono">
 </p>
+
+**Aplicações comuns:** CPUs (temporização, divisores de frequência, geração de endereços), sistemas de controle, interfaces digitais para contagem de eventos e registros de tempo.
+---
+
+## 1. Objetivo do Circuito
+
+Dado um pulso de clock e, opcionalmente, um sinal de controle reset, o circuito produz uma sequência binária crescente, atualizando todos os bits simultaneamente.  A contagem reinicia automaticamente após alcançar o limite definido (4 bits) ou quando o sinal Reset é acionado.
