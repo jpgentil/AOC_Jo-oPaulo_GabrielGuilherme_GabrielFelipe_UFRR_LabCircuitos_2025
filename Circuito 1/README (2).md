@@ -47,6 +47,9 @@ O objetivo do flip-flop JK é fornecer flexibilidade no controle da saída, pode
 ### 2.2 Estrutura do Circuito
 - **Entradas:** J, K e Clock.  
 - **Saídas:** Q e ¬Q.
+<p align="center">
+  <img src="./Imagens/1_Flip-Flop-JK(Mestre-Escravo).png" alt="FlipFlop D"><br>
+</p>
 
 **Componentes principais:** portas AND, OR e NOT interligadas com um latch controlado por clock.
 
