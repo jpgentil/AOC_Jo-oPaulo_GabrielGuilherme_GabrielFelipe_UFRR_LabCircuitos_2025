@@ -51,7 +51,7 @@ O objetivo do flip-flop JK é fornecer flexibilidade no controle da saída, pode
   <img src="./Imagens/1_Flip-Flop-JK(Mestre-Escravo).png" alt="FlipFlop D"><br>
 </p>
 
-**Componentes principais:** portas AND, OR e NOT interligadas com um latch controlado por clock.
+**Componentes principais:** portas NAND, interligadas com um latch controlado por clock.
 
 ---
 
