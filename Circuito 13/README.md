@@ -4,7 +4,7 @@ Este circuito implementa um contador binário síncrono de 4 bits: a cada pulso 
 
 <p align="center">
   <img src="./Imagens/13_Contador-Sincrono.png" alt="Contador Síncrono" width="550"><br>
-  <a href="./Circuito%2013/Circuitos%20Logisim/13_Contador-Sincrono.circ">Link do Contador</a>
+  <a href="./Circuitos%20Logisim/13_Contador-Sincrono.circ">Link do Contador</a>
 </p>
 
 **Aplicações comuns:** CPUs (temporização, divisores de frequência, geração de endereços), sistemas de controle, interfaces digitais para contagem de eventos e registros de tempo.
