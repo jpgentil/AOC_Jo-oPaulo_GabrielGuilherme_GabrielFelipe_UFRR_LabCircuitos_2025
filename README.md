@@ -1,12 +1,9 @@
 # AOC Project
 
 ## Overview
-This project is a collaborative effort by João Paulo, Gabriel Guilherme, and Gabriel Felipe for the UFRR Lab Circuitos course in 2025.
+Repositório criado com a finalidade de adicionar documentos e códigos do trabalho: LABORÁTORIO DE CIRCUITOS – CODIFICAÇÃO E SIMULAÇÕES.
 
-## Getting Started
-Instructions on how to set up and run the project will go here.
-
-## Authors
+## Autores
 - João Paulo
 - Gabriel Guilherme
 - Gabriel Felipe
