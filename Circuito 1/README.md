@@ -110,6 +110,10 @@ O objetivo do flip-flop T é **alternar o estado da saída (Q)** a cada pulso de
 - **Entradas:** T e Clock.  
 - **Saídas:** Q e ¬Q.
 
+<p align="center">
+  <img src="./Imagens/1_Flip-Flop-T(Toggle).png" alt="Flip Flop T(Toggle)"><br>
+</p>
+
 **Componentes principais:** um flip-flop JK com J = K = T.
 
 ---
