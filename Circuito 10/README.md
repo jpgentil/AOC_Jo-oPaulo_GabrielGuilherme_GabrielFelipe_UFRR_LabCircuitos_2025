@@ -140,7 +140,7 @@ Resultado: 01111111
 
 <p align="center">
   Somador de 1 bit com entrada de carry.<br>
-  <img src="./Imagens/SomadorCompleto.png" alt="Somador Completo"><br>
+  <img src="../Imagens/Circuito_Somador_Subtrator.jpeg" alt="Somador Completo"><br>
   <a href="./somador_completo.circ">Link do Somador</a>
 </p>
 
