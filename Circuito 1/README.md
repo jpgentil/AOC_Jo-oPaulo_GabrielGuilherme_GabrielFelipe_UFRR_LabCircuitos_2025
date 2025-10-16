@@ -155,7 +155,7 @@ Se CLR = 0, Q é definido como 0.
 
 Se PR = CLR = 0, ocorre condição inválida (conflito).
 
- ####Conclusão
+ #### Conclusão
 
 As entradas Clear e Preset tornam o flip-flop T mais flexível, permitindo controle imediato sobre o estado de saída. Elas são amplamente usadas em circuitos de inicialização, reset global e controle de sincronização.
 
