@@ -4,7 +4,7 @@ Este circuito implementa uma máquina de estados finita que funciona como um con
 
 <p align="center">
   <img src="./Imagens/FSM.jpeg" alt="Máquina de Estados"><br>
-  <a href="./maquina_estados.circ">Link da Máquina de Estados</a>
+  <a href="./maquina_de_estado_finito.circ">Link da Máquina de Estados</a>
 </p>
 
 **Aplicações comuns:** Sistemas de controle, contadores simples, sequenciadores, unidades de controle em processadores, máquinas de estado para protocolos de comunicação e automação.
