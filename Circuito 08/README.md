@@ -3,7 +3,7 @@
 Este circuito implementa um somador binário completo de 8 bits capaz de adicionar dois números de 8 bits e um carry de entrada, produzindo uma soma de 8 bits e um carry de saída. O circuito utiliza 8 somadores completos de 1 bit conectados em cascata, onde o carry out de cada estágio alimenta o carry in do próximo, permitindo a propagação do carry através de todos os bits.
 
 <p align="center">
-  <img src="./Imagens/Somador8bits.png" alt="Somador 8 bits"><br>
+  <img src="./Imagens/Somador_8_bits.jpeg" alt="Somador 8 bits"><br>
   <a href="./Somador_Completo.circ">Link do Somador</a>
 </p>
 
@@ -47,8 +47,8 @@ Dados dois números de 8 bits (Entrada 1 e Entrada 2) e um carry inicial (Cin = 
 
 <p align="center">
   Somador Completo de 1 bit (Full Adder).<br>
-  <img src="./Imagens/FullAdder.png" alt="Full Adder"><br>
-  <a href="./somador_completo.circ">Link do Somador Completo</a>
+  <img src="./Imagens/Somador_Completo.jpeg" alt="Full Adder"><br>
+  <a href="./Somador_Completo.circ">Link do Somador Completo</a>
 </p>
 
 ### 3.1 Operação Básica
