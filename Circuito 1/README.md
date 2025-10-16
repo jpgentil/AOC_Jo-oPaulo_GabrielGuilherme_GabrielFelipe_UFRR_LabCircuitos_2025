@@ -127,6 +127,38 @@ Em resumo, o flip-flop T é essencialmente um **divisor de frequência por 2**, 
 
 ---
 
+### Adicional
+
+Entradas Assíncronas: Clear e Preset
+
+Os flip-flops T podem incluir duas entradas assíncronas adicionais: Clear (CLR) e Preset (PR). Elas têm prioridade sobre o clock e sobre a entrada T, permitindo controlar diretamente o estado da saída Q, independentemente do ciclo de clock.
+
+ #### Clear (CLR)
+
+- **Também chamado de Reset.
+
+- **Quando ativado (geralmente nível lógico 0), força Q = 0 imediatamente, sem esperar o clock.
+
+#### Preset (PR)
+
+- **Também chamado de Set.
+
+- **Quando ativado (geralmente nível lógico 0), força Q = 1 imediatamente, também sem depender do clock.
+
+  - ** Funcionamento Prioritário
+
+Essas entradas têm prioridade sobre o clock e T:
+
+Se PR = 0, Q é definido como 1.
+
+Se CLR = 0, Q é definido como 0.
+
+Se PR = CLR = 0, ocorre condição inválida (conflito).
+
+ ####Conclusão
+
+As entradas Clear e Preset tornam o flip-flop T mais flexível, permitindo controle imediato sobre o estado de saída. Elas são amplamente usadas em circuitos de inicialização, reset global e controle de sincronização.
+
 ## 4. Comparativo entre Flip-Flops
 
 | Tipo | Entradas | Função Principal | Aplicação |
