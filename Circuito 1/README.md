@@ -135,17 +135,17 @@ Os flip-flops T podem incluir duas entradas assíncronas adicionais: Clear (CLR)
 
  #### Clear (CLR)
 
-- **Também chamado de Reset.
+- Também chamado de Reset.
 
-- **Quando ativado (geralmente nível lógico 0), força Q = 0 imediatamente, sem esperar o clock.
+- Quando ativado (geralmente nível lógico 0), força Q = 0 imediatamente, sem esperar o clock.
 
 #### Preset (PR)
 
-- **Também chamado de Set.
+-  Também chamado de Set.
 
-- **Quando ativado (geralmente nível lógico 0), força Q = 1 imediatamente, também sem depender do clock.
-
-  - ** Funcionamento Prioritário
+-  Quando ativado (geralmente nível lógico 0), força Q = 1 imediatamente, também sem depender do clock.
+  
+-  Funcionamento Prioritário
 
 Essas entradas têm prioridade sobre o clock e T:
 
