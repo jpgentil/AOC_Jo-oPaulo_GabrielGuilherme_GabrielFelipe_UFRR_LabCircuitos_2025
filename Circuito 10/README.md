@@ -3,7 +3,7 @@
 Este circuito implementa uma Unidade Lógica e Aritmética (ULA) completa de 8 bits, capaz de realizar 13 operações diferentes: operações lógicas (AND, OR, NOT, NOR, NAND, XOR), operações aritméticas (soma e subtração), e operações de deslocamento de bits (shift left e shift right). A operação é selecionada por um código de 4 bits (OP CODE).
 
 <p align="center">
-  <img src="./Imagens/ULA_8bits.png" alt="ULA 8 bits"><br>
+  <img src="./Imagens/ULA_8bits.jpeg" alt="ULA 8 bits"><br>
   <a href="./ULA_8_bits.circ">Link da ULA</a>
 </p>
 
