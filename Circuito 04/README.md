@@ -3,7 +3,7 @@
 Este circuito implementa um somador binário de 8 bits que adiciona a constante 4 a qualquer valor de entrada. O circuito utiliza somadores de 1 bit encadeados (ripple-carry adder) para realizar a operação aritmética, propagando o carry (vai-um) através de cada estágio.
 
 <p align="center">
-  <img src="./Imagens/Somador8bits+4.png" alt="Somador 8 bits + 4"><br>
+  <img src="./Imagens/Somador 8bit(int) +4.png" alt="Somador 8 bits + 4"><br>
   <a href="./Circuito_Logisim/Somador 8 bits(int) +4.circ">Link do Somador 8 bits + 4</a>
 </p>
 
@@ -45,7 +45,7 @@ Dado um número binário de 8 bits na entrada, o circuito adiciona o valor 4 (re
 
 <p align="center">
   Representação de um Somador de 1 bit (Full Adder) no Logisim.<br>
-  <img src="./Imagens/Somador1bit.png" alt="Somador 1 bit"><br>
+  <img src="./Imagens/Somador 1 bit.png" alt="Somador 1 bit"><br>
   <a href="./Circuito_Logisim/Somador 8 bits(int) +4.circ">Link do Somador 1 bit</a>
 </p>
 
@@ -154,3 +154,4 @@ Cálculo de endereços sequenciais em operações de leitura/escrita de blocos d
 
 ### 6.3 ALU (Unidade Aritmética e Lógica)
 Operações de incremento são fundamentais em loops, contadores e manipulação de índices.
+
