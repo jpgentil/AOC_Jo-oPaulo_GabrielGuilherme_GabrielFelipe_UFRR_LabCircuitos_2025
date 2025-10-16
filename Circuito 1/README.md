@@ -41,6 +41,9 @@ O flip-flop JK é uma evolução do flip-flop SR, que elimina o estado inválido
 
 ### 2.1 Objetivo do Circuito
 O objetivo do flip-flop JK é fornecer flexibilidade no controle da saída, podendo alternar entre manter, setar, resetar ou inverter o estado de Q conforme as entradas J e K.
+<p align="center">
+  <img src="./Imagens/1_Flip-Flop-JK(sem resetclear).png" alt="Flip Flop JK"><br>
+</p>
 
 ---
 
@@ -48,8 +51,10 @@ O objetivo do flip-flop JK é fornecer flexibilidade no controle da saída, pode
 - **Entradas:** J, K e Clock.  
 - **Saídas:** Q e ¬Q.
 <p align="center">
-  <img src="./Imagens/1_Flip-Flop-JK(Mestre-Escravo).png" alt="FlipFlop D"><br>
+  <img src="./Imagens/1_Flip-Flop-JK(Mestre-Escravo).png" alt="Flip Flop JK"><br>
 </p>
+
+ Obs: devido a problemas de instabilidade e erros inerentes a própria natureza do logisim, para representar o Flip Flop utilizamos a sua versão aprimorada "Flip Flop JK Mestre-Escravo " que permite manipular o circuito intuitivamente.
 
 **Componentes principais:** portas NAND, interligadas com um latch controlado por clock.
 
