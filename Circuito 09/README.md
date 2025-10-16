@@ -3,7 +3,7 @@
 Este circuito implementa um detector de padrão que identifica a sequência binária "101" em qualquer posição de uma entrada de 8 bits. O circuito usa lógica combinacional com portas AND e OR para examinar todas as possíveis posições onde o padrão pode ocorrer, ativando a saída quando o padrão é encontrado.
 
 <p align="center">
-  <img src="./Imagens/Detector101.png" alt="Detector 101"><br>
+  <img src="./Imagens/Decodificador_101.jpeg" alt="Detector 101"><br>
   <a href="./Detector-101.circ">Link do Detector</a>
 </p>
 
