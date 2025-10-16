@@ -3,7 +3,7 @@
 Este circuito implementa uma máquina de estados finita que funciona como um contador binário de 2 bits: a cada pulso de clock, ele incrementa o valor em 1, passando pela sequência 00 → 01 → 10 → 11 → 00. O circuito utiliza flip-flops D e portas lógicas para criar transições de estado síncronas e previsíveis.
 
 <p align="center">
-  <img src="./Imagens/MaquinaEstados.png" alt="Máquina de Estados"><br>
+  <img src="./Imagens/FSM.jpeg" alt="Máquina de Estados"><br>
   <a href="./maquina_estados.circ">Link da Máquina de Estados</a>
 </p>
 
