@@ -47,7 +47,7 @@ Dado um pulso de clock, o circuito produz uma sequência binária crescente de 2
 
 <p align="center">
   Representação de um Flip-Flop tipo D no Logisim.<br>
-  <img src="./Imagens/FlipFlopD.png" alt="Flip-Flop D"><br>
+  <img src="./Imagens/FlipFlop_tipoD.jpeg" alt="Flip-Flop D"><br>
   <a href="./flip_flop_d.circ">Link do Flip-Flop D</a>
 </p>
 
