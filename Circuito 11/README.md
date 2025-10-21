@@ -3,7 +3,7 @@
 Este circuito implementa um extensor de sinal que converte números de 4 bits em números de 8 bits, preservando o valor numérico tanto para números positivos quanto negativos. O extensor replica o bit de sinal (bit mais significativo) nos 4 bits superiores adicionados, permitindo representação correta em complemento de 2.
 
 <p align="center">
-  <img src="./Imagens/ExtensorSinal.png" alt="Extensor de Sinal"><br>
+  <img src="./Imagens/Extensor_de_sinal.jpeg" alt="Extensor de Sinal"><br>
   <a href="./11-Extensor.circ">Link do Extensor</a>
 </p>
 
