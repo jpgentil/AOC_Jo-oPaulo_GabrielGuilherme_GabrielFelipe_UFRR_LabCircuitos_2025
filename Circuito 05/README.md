@@ -3,7 +3,7 @@
 Este circuito implementa uma memória ROM (Read-Only Memory) de 8 posições, cada uma armazenando 8 bits de dados. A ROM utiliza um decoder de 3 bits para selecionar qual das 8 posições será lida, e portas lógicas para codificar permanentemente os valores armazenados em cada endereço.
 
 <p align="center">
-  <img src="./Imagens/Memoria ROM (Read_only_memory).png" alt="Memória ROM"><br>
+  <img src="./Imagens/Memoria_ROM (Read_only_memory).png" alt="Memória ROM"><br>
   <a href="./Circuitos_Logisim/Memoria_ROM(read_only_memory).circ">Link da Memória ROM</a>
 </p>
 
@@ -150,3 +150,4 @@ Armazenamento dos padrões de pixels que formam letras e símbolos em displays e
 
 ### 6.5 Decoders e Conversores
 Implementação de tabelas de conversão (BCD para 7-segmentos, ASCII para códigos de controle).
+
