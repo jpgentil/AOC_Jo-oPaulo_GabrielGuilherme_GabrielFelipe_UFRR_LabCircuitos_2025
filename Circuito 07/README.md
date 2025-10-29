@@ -3,7 +3,7 @@
 Este circuito implementa um banco de registradores com 8 registradores de 8 bits cada, totalizando 64 bits de armazenamento. O banco permite operações de escrita (write) em um registrador selecionado por endereço de 3 bits e leitura (read) simultânea de dois registradores através de multiplexadores. É um componente fundamental em arquiteturas de processadores para armazenamento temporário de dados durante a execução de instruções.
 
 <p align="center">
-  <img src="./Imagens/BancoRegistradores.png" alt="Banco de Registradores"><br>
+  <img src="./Imagens/Banco_de_Registradores.jpeg" alt="Banco de Registradores"><br>
   <a href="./Banco de Regs.circ">Link do Banco de Registradores</a>
 </p>
 
@@ -49,13 +49,6 @@ O banco de registradores fornece armazenamento rápido e acessível para 8 valor
 ---
 
 ## 3. Funcionamento do Circuito
-
-<p align="center">
-  Célula de Memória de 1 bit (Latch SR).<br>
-  <img src="./Imagens/Memoria1bit.png" alt="Memoria 1 bit"><br>
-  <a href="./Memoria1bit.circ">Link da Memória 1 bit</a>
-</p>
-
 ### 3.1 Operação Básica
 
 **A) Operação de Escrita:**  
