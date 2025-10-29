@@ -3,8 +3,8 @@
 Este circuito implementa um multiplexador (MUX) 4x1, que seleciona uma entre quatro entradas de dados e a encaminha para a saída. A seleção é controlada por dois sinais de controle (S1 e S2), permitindo escolher qual das quatro entradas será transmitida.
 
 <p align="center">
-  <img src="./Imagens/Multiplexador4x1.png" alt="Multiplexador 4x1"><br>
-  <a href="./Circuitos_Logisim/Multiplexer 4x1.circ">Link do Multiplexador</a>
+  <img src="./Imagens/Multiplexer4x1.png" alt="Multiplexer 4x1"><br>
+  <a href="./Circuitos_Logisim/Multiplexar4x1.circ">Link do Multiplexador</a>
 </p>
 
 **Aplicações comuns:** seleção de fontes de dados em CPUs, roteamento de sinais em sistemas digitais, implementação de funções lógicas programáveis e multiplexação de barramentos de dados.
@@ -96,3 +96,4 @@ As portas AND implementam as seguintes condições:
 - A porta OR recebe (0, 0, 1, 0) → **Saída S = 1**
 
 O multiplexador transmite com sucesso o valor de Input 3 para a saída.
+
