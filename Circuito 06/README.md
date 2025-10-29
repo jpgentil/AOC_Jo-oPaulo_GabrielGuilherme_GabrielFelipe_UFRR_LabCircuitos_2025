@@ -3,7 +3,7 @@
 Este circuito implementa uma memória RAM de 8 posições, cada uma armazenando 8 bits de dados. A RAM permite tanto operações de leitura quanto de escrita, utilizando um decoder (demultiplexer) para selecionar o endereço de escrita e um multiplexer para selecionar o endereço de leitura.
 
 <p align="center">
-  <img src="./Imagens/MemoriaRAM.png" alt="Memória RAM"><br>
+  <img src="./Imagens/Memoria_RAM.png" alt="Memória RAM"><br>
   <a href="./Circuitos_Logisim/Memoria Ram.circ">Link da Memória RAM</a>
 </p>
 
