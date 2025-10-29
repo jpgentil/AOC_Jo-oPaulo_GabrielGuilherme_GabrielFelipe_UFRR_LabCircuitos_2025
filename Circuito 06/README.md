@@ -1,4 +1,4 @@
-# Memória RAM (Random Access Memory)
+ # Memória RAM (Random Access Memory)
 
 Este circuito implementa uma memória RAM de 8 posições, cada uma armazenando 8 bits de dados. A RAM permite tanto operações de leitura quanto de escrita, utilizando um decoder (demultiplexer) para selecionar o endereço de escrita e um multiplexer para selecionar o endereço de leitura.
 
@@ -51,7 +51,7 @@ Dado um endereço de 3 bits (Key), o circuito permite armazenar dados de 8 bits 
 
 <p align="center">
   Representação de um Registrador de 8 bits no Logisim.<br>
-  <img src="./Imagens/Registrador8bits.png" alt="Registrador 8 bits"><br>
+  <img src="./Imagens/Registrador_8_bits.png" alt="Registrador 8 bits"><br>
   <a href="./Circuitos_Logisim/Memoria Ram.circ">Link do Registrador 8 bits</a>
 </p>
 
