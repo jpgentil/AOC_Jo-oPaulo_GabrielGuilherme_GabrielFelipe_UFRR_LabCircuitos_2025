@@ -25,8 +25,8 @@ Dado um conjunto de bits (8 bits neste exemplo), o circuito determina se a quant
 
 **Saídas:**
 - **S (Saída de Paridade):** 
-  - `1` quando há quantidade ímpar de bits '1' na entrada
-  - `0` quando há quantidade par de bits '1' na entrada
+  - `1` quando há quantidade ímpar de bits '1' na entrada.
+  - `0` quando há quantidade par de bits '1' na entrada.
 
 ### 2.2 Componentes Principais
 
