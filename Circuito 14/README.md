@@ -1,6 +1,6 @@
 # Detector de Paridade Ímpar
 
-Este circuito implementa um detector de paridade ímpar usando portas lógicas XOR: dada uma entrada de 8 bits, ele verifica se o número de bits '1' na entrada é ímpar. A saída será '1' se houver quantidade ímpar de bits '1', e '0' se houver quantidade par.
+Este circuito implementa um detector de paridade ímpar usando portas lógicas XOR (ou exclusivo): dada uma entrada de 8 bits, ele verifica se o número de bits '1' na entrada é ímpar. A saída será '1' se houver quantidade ímpar de bits '1', e '0' se houver quantidade par.
 
 <p align="center">
   <img src="./Imagens/14_Paridade-Impar.png" alt="Detector de Paridade Ímpar" width="550"><br>
@@ -21,7 +21,7 @@ Dado um conjunto de bits (8 bits neste exemplo), o circuito determina se a quant
 
 ### 2.1 Entradas e Saídas
 **Entradas:**
-- **Barramento de 8 bits:** conjunto de valores binários (b₇, b₆, b₅, b₄, b₃, b₂, b₁, b₀) a serem analisados.
+- **Barramento de 8 bits:** conjunto de valores binários (`b₇, b₆, b₅, b₄, b₃, b₂, b₁, b₀`) a serem analisados.
 
 **Saídas:**
 - **S (Saída de Paridade):** 
@@ -52,7 +52,7 @@ Dado um conjunto de bits (8 bits neste exemplo), o circuito determina se a quant
 ### 3.1 Operação Básica
 
 **A) Propriedade fundamental da porta XOR:**
-A porta XOR (ou exclusivo) possui uma característica essencial: sua saída é '1' quando há quantidade ímpar de entradas em '1'. Esta propriedade é a base para detecção de paridade.
+A porta XOR possui uma característica essencial: sua saída é '1' quando há quantidade ímpar de entradas em '1'. Esta propriedade é a base para detecção de paridade.
 
 **Tabela verdade da porta XOR (2 entradas):**
 
@@ -68,9 +68,9 @@ Quando múltiplas portas XOR são conectadas em cascata, a propriedade de parida
 
 **C) Processamento em árvore:**
 As portas XOR são organizadas em níveis hierárquicos:
-- **Nível 1:** 4 portas XOR processam os 8 bits de entrada em pares (b₀⊕b₁, b₂⊕b₃, b₄⊕b₅, b₆⊕b₇)
-- **Nível 2:** 2 portas XOR processam os resultados do nível anterior
-- **Nível 3:** 1 porta XOR final produz o resultado da paridade
+- **Nível 1:** 4 portas XOR processam os 8 bits de entrada em pares (`b₀⊕b₁, b₂⊕b₃, b₄⊕b₅, b₆⊕b₇`).
+- **Nível 2:** 2 portas XOR processam os resultados do nível anterior.
+- **Nível 3:** 1 porta XOR final produz o resultado da paridade.
 
 ### 3.2 Propagação dos Sinais
 
