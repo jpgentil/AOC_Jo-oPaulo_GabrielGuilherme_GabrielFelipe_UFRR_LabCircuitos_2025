@@ -4,7 +4,7 @@ Este circuito implementa um contador binário síncrono de 4 bits: a cada pulso 
 
 <p align="center">
   <img src="./Imagens/13_Contador-Sincrono.png" alt="Contador Síncrono" width="550"><br>
-  <a href="./Circuitos%20Logisim/13_Contador-Sincrono.circ">Link do Contador</a>
+  <a href="./Circuitos%20Logisim/13_Contador-Sincrono.circ">Link do circuito</a>
 </p>
 
 **Aplicações comuns:** CPUs (temporização, divisores de frequência, geração de endereços), sistemas de controle, interfaces digitais para contagem de eventos e registros de tempo.
@@ -46,7 +46,7 @@ Dado um pulso de clock e, opcionalmente, um sinal de controle Reset, o circuito 
 <p align="center">
   Representação de um Flip-Flop tipo T no Logisim.<br>
   <img src="./Imagens/xxxxx.png" alt="Flip-Flop T"><br>
-  <a href="./1-xxxxx.circ">Link do Flip-Flop T</a>
+  <a href="./1-xxxxx.circ">Link do circuito</a>
 </p>
 
 ### 3.1 Operação Básica
