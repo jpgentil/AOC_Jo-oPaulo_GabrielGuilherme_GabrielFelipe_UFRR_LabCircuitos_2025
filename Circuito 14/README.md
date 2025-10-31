@@ -4,7 +4,7 @@ Este circuito implementa um detector de paridade ímpar usando portas lógicas X
 
 <p align="center">
   <img src="./Imagens/14_Detector-Impar.png" alt="Detector de Paridade Ímpar" width="350"><br>
-  <a href="./Circuitos%20Logisim/14_Detector-Impar.circ">Link do Circuito</a>
+  <a href="./Circuitos%20Logisim/14_Detector-Impar.circ">Link do circuito</a>
 </p>
 
 **Aplicações comuns:** detecção de erros em transmissão de dados, verificação de integridade em sistemas de comunicação, protocolos de rede, sistemas de armazenamento digital e memórias.
@@ -45,8 +45,8 @@ Dado um conjunto de bits (8 bits neste exemplo), o circuito determina se a quant
 
 <p align="center">
   Representação de uma porta XOR no Logisim.<br>
-  <img src="./Imagens/14_Porta-XOR.png" alt="Porta XOR" width="200"><br>
-  <a href="./1-xxxxx.circ">Link da Porta XOR</a>
+  <img src=".Circuito%2003/Imagens/3_Porta-XOR.png" alt="Porta XOR" width="200"><br>
+  <a href="./1-xxxxx.circ">Link do circuito</a>
 </p>
 
 ### 3.1 Operação Básica
