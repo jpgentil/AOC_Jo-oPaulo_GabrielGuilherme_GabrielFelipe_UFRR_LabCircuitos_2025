@@ -3,8 +3,8 @@
 Este circuito implementa um detector de paridade ímpar usando portas lógicas XOR (ou exclusivo): dada uma entrada de 8 bits, ele verifica se o número de bits '1' na entrada é ímpar. A saída será '1' se houver quantidade ímpar de bits '1', e '0' se houver quantidade par.
 
 <p align="center">
-  <img src="./Imagens/14_Paridade-Impar.png" alt="Detector de Paridade Ímpar" width="550"><br>
-  <a href="./Circuitos%20Logisim/14_Paridade-Impar.circ">Link do Circuito</a>
+  <img src="./Imagens/14_Detector-Impar.png" alt="Detector de Paridade Ímpar" width="550"><br>
+  <a href="./Circuitos%20Logisim/14_Detector-Impar.circ">Link do Circuito</a>
 </p>
 
 **Aplicações comuns:** detecção de erros em transmissão de dados, verificação de integridade em sistemas de comunicação, protocolos de rede, sistemas de armazenamento digital e memórias.
