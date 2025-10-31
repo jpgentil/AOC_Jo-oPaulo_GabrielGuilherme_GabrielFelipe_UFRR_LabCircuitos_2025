@@ -32,7 +32,7 @@ Repositório criado com a finalidade de adicionar documentos e códigos do traba
    Disponível em: [https://www.academia.edu/44362001/Organização_e_Projeto_de_Computadores_Interface_Hardware_Software_5a_EDIÇÃO](https://www.academia.edu/44362001/Organização_e_Projeto_de_Computadores_Interface_Hardware_Software_5a_EDIÇÃO).  
    Acesso em: 31 out. 2025.
 
-6. **SILVA, Andersson; RAMOS, Arthur.** *AOC – Laboratório de Circuitos (UFRR 2024).*  
+6. **SILVA, Andersson; RAMOS, Arthur.**  – Laboratório de Circuitos (UFRR 2024).*  
    Disponível em: [https://github.com/AnderssonSilvaP/AOC_AnderssonSilvaArthurRamos_UFRR_LabCircuitos_2024/tree/main](https://github.com/AnderssonSilvaP/AOC_AnderssonSilvaArthurRamos_UFRR_LabCircuitos_2024/tree/main).  
    Acesso em: 31 out. 2025.
 
