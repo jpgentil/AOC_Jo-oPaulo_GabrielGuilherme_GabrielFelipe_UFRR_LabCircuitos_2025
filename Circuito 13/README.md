@@ -44,7 +44,7 @@ Dado um pulso de clock e, opcionalmente, um sinal de controle Reset, o circuito 
 ## 3. Funcionamento do Circuito
 
 <p align="center">
-  Representação de um Flip-Flop tipo T no Logisim.<br>
+  Representação de um flip-flop tipo T no Logisim.<br>
   <img src="./Imagens/xxxxx.png" alt="Flip-Flop T"><br>
   <a href="./1-xxxxx.circ">Link do Flip-Flop T</a>
 </p>
