@@ -6,7 +6,7 @@ Repositório criado com a finalidade de adicionar documentos e códigos do traba
 ## Autores
 - Gabriel Felipe
 - Gabriel Guilherme (2024005507)
-- João Paulo
+- João Paulo (2024002238)
 
 
 
