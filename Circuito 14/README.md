@@ -44,8 +44,9 @@ Dado um conjunto de bits (8 bits neste exemplo), o circuito determina se a quant
 ## 3. Funcionamento do Circuito
 
 <p align="center">
+  Representação de uma porta XOR no Logisim.<br>
   <img src="./Imagens/14_Porta-XOR.png" alt="Porta XOR" width="200"><br>
-  Representação de uma porta XOR
+  <a href="./1-xxxxx.circ">Link da Porta XOR</a>
 </p>
 
 ### 3.1 Operação Básica
