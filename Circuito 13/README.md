@@ -63,7 +63,7 @@ Novas saídas Q são apresentadas, e as portas AND recalculam para o próximo pu
 **D) Ciclo contínuo:**  
 Esse ciclo se repete indefinidamente, voltando para o estado inicial quando atingir o limite de 4 bits ou quando o Reset é acionado.
 
-### 3.2 Propagação dos sinais
+### 3.2 Propagação dos Sinais
 
 - **Q0:** sempre alterna a cada pulso de clock (`T0 = 1`), pois sua entrada T está conectada a um nível lógico constante 1.
 - **Q1:** alterna apenas quando `Q0 = 1` (`T1 = Q0`).
