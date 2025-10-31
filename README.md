@@ -1,7 +1,7 @@
 # AOC Project
 
 ## Visão Geral
-Este repositório foi criado com a finalidade de adicionar os documentos e códigos referentes ao primeiro trabalho avaliativo: LABORÁTORIO DE CIRCUITOS – CODIFICAÇÃO E SIMULAÇÕES, da disciplina de Arquitetura e Organização de Computadores. Produzido para a disciplina de Arquitetura e Organização de Computadores (AOC), ministrada pelo professor Hebert Rocha.
+Este repositório foi criado com a finalidade de adicionar os documentos e códigos referentes ao primeiro trabalho avaliativo: LABORÁTORIO DE CIRCUITOS – CODIFICAÇÃO E SIMULAÇÕES. Produzido para a disciplina de Arquitetura e Organização de Computadores (AOC), ministrada pelo professor Hebert Rocha.
 
 ## Autores
 - Gabriel Felipe
