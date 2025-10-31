@@ -51,7 +51,7 @@ Dado um conjunto de bits (8 bits neste exemplo), o circuito determina se a quant
 
 ### 3.1 Operação Básica
 
-**A) Propriedade fundamental da porta XOR:**
+**A) Propriedade fundamental da porta XOR:**<br>
 A porta XOR possui uma característica essencial: sua saída é '1' quando há quantidade ímpar de entradas em '1'. Esta propriedade é a base para detecção de paridade.
 
 **Tabela verdade da porta XOR (2 entradas):**
@@ -63,10 +63,10 @@ A porta XOR possui uma característica essencial: sua saída é '1' quando há q
 | 1 | 0 | 1       |
 | 1 | 1 | 0       |
 
-**B) Cascateamento de portas XOR:**
+**B) Cascateamento de portas XOR:**<br>
 Quando múltiplas portas XOR são conectadas em cascata, a propriedade de paridade ímpar é preservada. O resultado final indica se o total de bits '1' na entrada original é ímpar.
 
-**C) Processamento em árvore:**
+**C) Processamento em árvore:**<br>
 As portas XOR são organizadas em níveis hierárquicos:
 - **Nível 1:** 4 portas XOR processam os 8 bits de entrada em pares (`b₀⊕b₁, b₂⊕b₃, b₄⊕b₅, b₆⊕b₇`).
 - **Nível 2:** 2 portas XOR processam os resultados do nível anterior.
