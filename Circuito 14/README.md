@@ -7,7 +7,7 @@ Este circuito implementa um detector de paridade ímpar usando portas lógicas X
   <a href="./Circuitos%20Logisim/14_Paridade-Impar.circ">Link do Circuito</a>
 </p>
 
-**Aplicações comuns:** Detecção de erros em transmissão de dados, verificação de integridade em sistemas de comunicação, protocolos de rede, sistemas de armazenamento digital e memórias.
+**Aplicações comuns:** detecção de erros em transmissão de dados, verificação de integridade em sistemas de comunicação, protocolos de rede, sistemas de armazenamento digital e memórias.
 
 ---
 
